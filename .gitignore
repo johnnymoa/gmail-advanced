@@ -1,0 +1,7 @@
+.venv/
+.venv
+.python-version
+credentials.json
+token.pickle
+uv.lock
+.env
